@@ -1,0 +1,35 @@
+# Speckit History Log
+
+## Action Tracking
+
+This file tracks all significant actions taken during the development of the Todo project Phase 2.
+
+### Date: 2026-01-01
+- Created initial project constitution file
+- Established project structure and guidelines
+- Set up specification tracking system
+
+### Date: 2026-01-01
+- Action: Moving to Planning Phase
+- By: AI Developer
+- Details: Specifications and Constitution approved. Beginning architectural planning phase.
+
+### Date: 2026-01-01
+- Action: Starting Implementation Phase - Batch 1
+- By: AI Developer
+- Details: The sp.plan.md and sp.tasks.md are approved. Beginning implementation of backend models, auth, main app and frontend layout/components.
+
+### Date: 2026-01-01
+- Action: Implementation Phase - Batch 2
+- By: AI Developer
+- Details: Full Auth & Todo CRUD implementation. Creating auth pages, backend API, and frontend components.
+
+### Date: 2026-01-01
+- Action: Implementation Phase - Batch 3
+- By: AI Developer
+- Details: Final Integration and Environment Setup. Creating environment variables, API helpers, and landing page.
+
+### Date: [YYYY-MM-DD]
+- Action: [Description of action taken]
+- By: [Developer name]
+- Details: [Additional details about the action]
