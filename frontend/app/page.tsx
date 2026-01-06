@@ -258,7 +258,7 @@ export default function LandingPage() {
 
       <main className="relative z-10 max-w-7xl mx-auto px-6 py-24 text-center">
         <h1 className="text-6xl md:text-8xl font-black text-white tracking-tighter mb-6">
-          Focus<span className="text-purple-500">Flow.</span>
+          Task<span className="text-purple-500">Manager.</span>
         </h1>
         
         <p className="max-w-2xl mx-auto text-xl text-slate-400 mb-12 font-medium">
